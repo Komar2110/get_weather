@@ -1,0 +1,9 @@
+.city, .deg {
+    font-family: sans-serif;
+    margin: 20px auto 0 auto;
+    font-size: 30px;
+}
+
+.city {
+    color: rgb(14, 124, 128);
+}
